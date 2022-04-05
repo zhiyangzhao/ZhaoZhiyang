@@ -9,8 +9,6 @@
 
 
 
-## The Speed Thing That Changes Everything
-![2493474](https://user-images.githubusercontent.com/20948381/161718522-96543180-636a-4662-96ce-d42480cd2339.jpg)
 
 *Website for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
