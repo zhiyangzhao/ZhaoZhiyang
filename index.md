@@ -1,4 +1,4 @@
-### Welcome to Zhao Zhiyang Page.
+# Welcome to Zhao Zhiyang Page.
 
 ### Imagination is more important than knowledge.
 
