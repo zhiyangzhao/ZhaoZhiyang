@@ -1,4 +1,4 @@
-## Welcome to Zhaozhiyang Pages
+## Welcome to Zhao Zhiyang Pages
 
 You can use the [editor on GitHub](https://github.com/zhiyangzhao/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
